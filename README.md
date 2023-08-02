@@ -2,6 +2,9 @@
 - This is a Practice project of PIAIC Web 3.0 and Metaverse developer course
 - Assignment-04 from gitrepo: https://github.com/panaverse/learn-nextjs/blob/main/assignment04_simple_book_api/readme.md
 
+- the simple book API is not working now, so I used JSON Placehoders -> Todos api ("https://jsonplaceholder.typicode.com/todos") for practice
+- You may use any of your API that you feel easy to use.
+
 
 # Simple Books API using Next.js 13 and Neon
 
